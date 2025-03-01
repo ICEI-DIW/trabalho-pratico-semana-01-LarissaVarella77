@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Larissa Varella Araujo 
+Matricula: 888313
 
 ## Tela de inspeção com navegador
-
+<img src="7.1_print_portal.jpg" alt="7.1_print_portal.jpg">
+<img src="8.2_conexao.jpg" alt="8.2_conexao.jpg">
 
 ## Tela de projeto no Replit
-
+<img src="7.2_hello_world_replit.jpg" alt="7.2_hello_world_replit.jpg">
+<img src="8.3_resultado_replit.jpg" alt="8.3_resultado_replit.jpg">
